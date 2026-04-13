@@ -11,9 +11,9 @@ My collections of wallpapers.
 ## LIVE
 <table>
   <tr>
-    <td><img src="live/Arlecchino Genshin Impact Amoled Live Wallpaper_4.mp4" alt="Arlecchino Genshin Impact Amoled" width="300"/></td>
-    <td><img src="live/berries.jpg" alt="berries" width="300"/></td>
-     <td><img src="live/greenland.jpg" alt="greenland" width="300"/></td>
+    <td><video src="live/Arlecchino Genshin Impact Amoled Live Wallpaper_4.mp4" alt="Arlecchino Genshin Impact Amoled" width="300"/></td>
+    <td><video src="live/anime-girl-night-view.3840x2160.mp4" alt="anime-girl-night-view" width="300"/></td>
+     <td><video src="live/arisu-in-millenium-wallpaperwaves-com.mp4" alt="arisu-in-millenium" width="300"/></td>
   </tr>
  
 </table>
