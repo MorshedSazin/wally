@@ -63,16 +63,10 @@ My collections of wallpapers.
  
   <tr>
     <td><img src="Crimson/demon-girl.jpg" alt="demon-girl" width="300"/></td>
+    <td><img src="Crimson/redcouds.png" alt="redcouds" width="300"/></td>
+    <td><img src="Crimson/redsky.jpg" alt="redsky" width="300"/></td>
   </tr>
 
-  <tr>
-    <td><img src="Crimson/redcouds.png" alt="redcouds" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/redsky.jpg" alt="redsky" width="300"/></td>
-    <td><img src="Crimson/smoking-nun.jpg" alt="smoking-nun" width="300"/></td>
-    <td><img src="Crimson/soldiers.jpg" alt="soldiers" width="300"/></td>
-  </tr>
   <tr>
     <td><img src="Crimson/space.jpg" alt="space" width="300"/></td>
     <td><img src="Crimson/Sword Black.png" alt="Sword Black" width="300"/></td>
