@@ -7,16 +7,13 @@ My collections of wallpapers.
 --Also drop a star if you like them, it'll help inflate my ego :)
 
 ### Tabular view
-
-## LIVE
-<table>
-  <tr>
-    <td><video src="live/Arlecchino Genshin Impact Amoled Live Wallpaper_4.mp4" alt="Arlecchino Genshin Impact Amoled" width="300"/></td>
-    <td><video src="live/anime-girl-night-view.3840x2160.mp4" alt="anime-girl-night-view" width="300"/></td>
-     <td><video src="live/arisu-in-millenium-wallpaperwaves-com.mp4" alt="arisu-in-millenium" width="300"/></td>
+<tr>
+    <td><video src="live/Arlecchino Genshin Impact Amoled Live Wallpaper_4.mp4" width="300" autoplay loop muted playsinline></video></td>
+    <td><video src="live/berries.jpg" width="300" autoplay loop muted playsinline></video></td>
+    <td><video src="live/greenland.jpg" width="300" autoplay loop muted playsinline></video></td>
   </tr>
- 
-</table>
+  
+
 
 ## Autmn
 
