@@ -13,7 +13,7 @@ My collections of wallpapers.
   <tr>
     <td><a href="live/Arlecchino Genshin Impact Amoled Live Wallpaper_4.mp4"><img src="previews/arlecchino.gif" width="300"/></a></td>
     <td><a href="live/anime-girl-night-view.3840x2160.mp4"><img src="previews/anime-girl.gif" width="300"/></a></td>
-    <td><a href="live/arisu-in-millenium-wallpaperwaves-com.mp4"><img src="previews/arisu.gif" width="300"/></a></td>
+    <td><a href="live/arisu-in-millenium-wallpaperwaves-com.mp4"><img src="previews/arisu-in-millenium-wallpaperwaves-com.mp4" width="300"/></a></td>
   </tr>
 </table>
 
