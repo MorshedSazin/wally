@@ -11,11 +11,10 @@ My collections of wallpapers.
 ## LIVE
 <table>
   <tr>
-    <td><video src="live/Arlecchino Genshin Impact Amoled Live Wallpaper_4.mp4" alt="Arlecchino Genshin Impact Amoled" width="300" autoplay loop muted playsinline></video></td>
-    <td><video src="live/anime-girl-night-view.3840x2160.mp4" alt="anime-girl-night-view" width="300" autoplay loop muted playsinline></video></td>
-    <td><video src="live/arisu-in-millenium-wallpaperwaves-com.mp4" alt="arisu-in-millenium" width="300" autoplay loop muted playsinline></video></td>
+    <td><a href="live/Arlecchino Genshin Impact Amoled Live Wallpaper_4.mp4"><img src="previews/arlecchino.gif" width="300"/></a></td>
+    <td><a href="live/anime-girl-night-view.3840x2160.mp4"><img src="previews/anime-girl.gif" width="300"/></a></td>
+    <td><a href="live/arisu-in-millenium-wallpaperwaves-com.mp4"><img src="previews/arisu.gif" width="300"/></a></td>
   </tr>
- 
 </table>
 
 ## Autmn
