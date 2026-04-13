@@ -14,37 +14,12 @@ My collections of wallpapers.
   <tr>
     <td><img src="Autmn/aushed.jpg" alt="aushed" width="300"/></td>
     <td><img src="Autmn/berries.jpg" alt="berries" width="300"/></td>
-    <td><img src="Autmn/bike-ride.jpeg" alt="bike-ride" width="300"/></td>
+     <td><img src="Autmn/greenland.jpg" alt="greenland" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="Autmn/cat-under-blanket.jpg" alt="cat-under-blanket" width="300"/></td>
-    <td><img src="Autmn/cityscape.jpg" alt="cityscape" width="300"/></td>
-    <td><img src="Autmn/cls-window.jpg" alt="cls-window" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/colors.jpg" alt="colors" width="300"/></td>
-    <td><img src="Autmn/comfy-room.jpg" alt="comfy-room" width="300"/></td>
-    <td><img src="Autmn/girl-sunlight.jpg" alt="girl-sunlight" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/greenland.jpg" alt="greenland" width="300"/></td>
-    <td><img src="Autmn/jplk.jpg" alt="jplk" width="300"/></td>
-    <td><img src="Autmn/lianimgrl.png" alt="lianimgrl" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/ms.jpg" alt="ms" width="300"/></td>
-    <td><img src="Autmn/my-neighbor-totoro-sunflowers.png" alt="my-neighbor-totoro-sunflowers" width="300"/></td>
-    <td><img src="Autmn/orange.jpg" alt="orange" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Autmn/perfect.jpg" alt="perfect" width="300"/></td>
-    <td><img src="Autmn/reflection-pool.jpg" alt="reflection-pool" width="300"/></td>
     <td><img src="Autmn/road-2.jpg" alt="road-2" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="Autmn/rofi-blossoms.png" alt="rofi-blossoms" width="300"/></td>
     <td><img src="Autmn/roses.jpg" alt="roses" width="300"/></td>
-    <td><img src="Autmn/rwood.jpg" alt="rwood" width="300"/></td>
   </tr>
   <tr>
     <td><img src="Autmn/saber.jpg" alt="saber" width="300"/></td>
