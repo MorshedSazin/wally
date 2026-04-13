@@ -60,35 +60,13 @@ My collections of wallpapers.
 ## Crimson
 
 <table>
-  <tr>
-    <td><img src="Crimson/Abstract Mountain Road.jpg" alt="Abstract Mountain Road" width="300"/></td>
-    <td><img src="Crimson/anie.jpg" alt="anie" width="300"/></td>
-    <td><img src="Crimson/b-012.jpg" alt="b-012" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/crimsonwitch.jpg" alt="crimsonwitch" width="300"/></td>
-    <td><img src="Crimson/crsword.jpg" alt="crsword" width="300"/></td>
-    <td><img src="Crimson/cyborgred.jpg" alt="cyborgred" width="300"/></td>
-  </tr>
+ 
   <tr>
     <td><img src="Crimson/demon-girl.jpg" alt="demon-girl" width="300"/></td>
-    <td><img src="Crimson/evan.png" alt="evan" width="300"/></td>
-    <td><img src="Crimson/flowers.jpg" alt="flowers" width="300"/></td>
   </tr>
-  <tr>
-    <td><img src="Crimson/gundam-skull-mecha.jpg" alt="gundam-skull-mecha" width="300"/></td>
-    <td><img src="Crimson/jinagshi.jpg" alt="jinagshi" width="300"/></td>
-    <td><img src="Crimson/owl-color.png" alt="owl-color" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Crimson/queen.jpg" alt="queen" width="300"/></td>
-    <td><img src="Crimson/Red Hair.jpg" alt="Red Hair" width="300"/></td>
-    <td><img src="Crimson/red-star.jpg" alt="red-star" width="300"/></td>
-  </tr>
+
   <tr>
     <td><img src="Crimson/redcouds.png" alt="redcouds" width="300"/></td>
-    <td><img src="Crimson/redhood.png" alt="redhood" width="300"/></td>
-    <td><img src="Crimson/redlamp.jpg" alt="redlamp" width="300"/></td>
   </tr>
   <tr>
     <td><img src="Crimson/redsky.jpg" alt="redsky" width="300"/></td>
