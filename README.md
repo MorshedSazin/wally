@@ -92,7 +92,6 @@ My collections of wallpapers.
   <tr>
     <td><img src="Graphite/mountain.jpg" alt="mountain" width="300"/></td>
     <td><img src="Graphite/who.png" alt="who" width="300"/></td>
-    <td><img src="Graphite/wildtexture.jpg" alt="wildtexture" width="300"/></td>
   </tr>
 </table>
 
