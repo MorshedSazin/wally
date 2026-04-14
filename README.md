@@ -101,9 +101,8 @@ My collections of wallpapers.
     <td><img src="goal/ChatGPT Image Dec 22, 2025, 03_11_20 AM.png" alt="Follow Me" width="300"/></td>
   </tr>
     <tr>
-    <td><img src="Graphite/mountain.jpg" alt="mountain" width="300"/></td>
-    <td><img src="Graphite/who.png" alt="who" width="300"/></td>
-    <td><img src="Graphite/who.png" alt="who" width="300"/></td>
+    <td><img src="goal/Screenshot_20251117_000208.png" alt="FOcus on the fundamentals" width="300"/></td>
+    <td><img src="goal/Screenshot_20251117_000335.png" alt="The fundamentals" width="300"/></td>
   </tr>
 </table>
 
